@@ -18,102 +18,59 @@ Soy **Ingeniero en Sistemas**, **Programador Jr. en Python** y **Analista de Dat
 #### 📂 Mis Proyectos Destacados
 *Puedes ver mis repositorios de análisis de datos aquí mismo en mi perfil.*
 
+
 GERARDO SANTIAGO VÁZQUEZ TOVAR
 Teléfono: +52 33 1053 3921
 Correo: gerardovazquez2903@gmail.com
 Ubicación: Tlaquepaque, Jalisco, México
 
+
 PERFIL PROFESIONAL
-Estudiante de Ingeniería en Sistemas en octavo cuatrimestre en la Universidad UMOV (desde mayo 2023). Me especializo en programación en Python y ciencia de datos, realizando proyectos de limpieza y visualización de datos con Pandas, NumPy, Matplotlib y Seaborn.
-Utilizo la IA como apoyo en mis tareas cotidianas y en mi aprendizaje de programación y ciencia de datos.
-Tengo formación en redes, servidores, virtualización, bases de datos (PostgreSQL, SQL), contenedores con Docker y automatización con n8n. He trabajado con Packet Tracer para diseño de redes, máquinas virtuales con VMware para crear servidores y usar Active Directory, así como conceptos de nube con Azure (aprendidos mediante cursos en Udemy). Busco una posición como programador Jr. o analista de datos Jr..
+Estudiante de Ingeniería en Sistemas en octavo cuatrimestre en la Universidad UMOV (desde mayo 2023). Especializado en programación en Python y ciencia de datos, con enfoque en limpieza y visualización de datos.
+Utilizo la IA de forma estratégica para optimizar el aprendizaje y la resolución de problemas técnicos. Cuento con formación sólida en redes (Packet Tracer), administración de servidores (VMware, Active Directory), bases de datos (PostgreSQL), contenedores (Docker) y automatización (n8n). Busco una oportunidad como programador Jr. o analista de datos Jr. para aplicar mis conocimientos técnicos en un entorno profesional.
+
 
 EDUCACIÓN
 Ingeniería en Sistemas
 Universidad UMOV – Tlaquepaque, Jalisco
 Mayo 2023 – Actualidad · Octavo cuatrimestre
 
-CURSOS Y FORMACIÓN COMPLEMENTARIA
-Udemy
-
-Redes informáticas
-Excel
-Ciencia de datos
-Windows Server
-Servicio técnico y soporte de computadoras
-Redes Cisco
-Programación en Python
-Django y FastAPI
-Bases de datos con PostgreSQL
-SQL
-Ciencia de datos con:
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Power BI
-Azure (conceptos de nube y servicios básicos)
-Devtalles
-
-Curso de Docker
-PostgreSQL con Docker
-Automatización
-
-Curso de n8n (automatización de flujos de trabajo)
 HABILIDADES TÉCNICAS
-Lenguajes de programación:
+Lenguajes y Web: Python, Django, FastAPI.
+Ciencia de Datos: Pandas, NumPy, Matplotlib, Seaborn, Power BI.
+Bases de Datos: PostgreSQL, SQL.
+Infraestructura y Redes: Cisco Packet Tracer, Windows Server, Active Directory, VMware, Azure (Básico).
+DevOps y Automatización: Docker, n8n.
+Herramientas: Google Drive (Gestión de proyectos), VS Code, Excel.
 
-Python
-Desarrollo web:
 
-Django
-FastAPI
-Ciencia de datos y análisis:
+PROYECTOS SELECCIONADOS
+Análisis y Limpieza de Datos: Rendimiento Académico (Python)
 
-Limpieza y manipulación de datos con Pandas y NumPy
-Visualización de datos con Matplotlib y Seaborn
-Power BI
-Bases de datos:
+Desarrollo de un flujo de trabajo en Python para procesar un dataset de notas de alumnos almacenado en Google Drive.
+Acciones: Limpieza de datos nulos, normalización de calificaciones y segmentación de alumnos por promedio utilizando Pandas y NumPy.
+Visualización: Creación de histogramas y diagramas de caja con Matplotlib y Seaborn para identificar la distribución de aprobados y detectar valores atípicos en el rendimiento escolar.
+Diseño de Infraestructura de Red (Cisco Packet Tracer)
 
-PostgreSQL
-SQL
-Sistemas, redes y soporte:
+Simulación de una topología de red empresarial segmentada por departamentos.
+Acciones: Configuración de direccionamiento IP estático y dinámico, diseño de subredes y validación de conectividad entre nodos.
+Lógica: Aplicación de conceptos de redes Cisco para asegurar el flujo de datos eficiente entre diferentes áreas de la estructura simulada.
+Administración de Servidores y Virtualización (VMware & Active Directory)
 
-Redes informáticas (Packet Tracer para simulación y diseño de redes)
-Redes Cisco (a nivel de curso)
-Windows Server
-Active Directory (mediante prácticas en máquinas virtuales)
-Servicio técnico y soporte de computadoras
-Virtualización, nube y automatización:
+Implementación de un entorno de pruebas mediante máquinas virtuales en VMware.
+Acciones: Instalación de Windows Server y configuración básica de Active Directory para la gestión de usuarios y permisos a nivel académico.
 
-VMware (creación y uso de máquinas virtuales para servidores)
-Azure (conceptos básicos de nube)
-Docker (incluyendo uso de PostgreSQL en contenedores)
-n8n para automatización de flujos de trabajo
-Herramientas:
 
-Google Drive (almacenamiento y organización de proyectos)
-Visual Studio Code
-Excel
-Cisco Packet Tracer
-VMware
-PROYECTOS ACADÉMICOS Y PERSONALES
-Limpieza de datos con Pandas y NumPy
-Proyectos básicos de práctica usando conjuntos de datos generados con ayuda de IA.
-Carga de archivos (CSV) desde Google Drive, tratamiento de valores nulos, filtrado y transformación de columnas.
-Visualización de datos con Matplotlib y Seaborn
-Gráficas básicas (barras, líneas, histogramas) para explorar patrones en datos de práctica.
-Análisis simple de relaciones entre variables y representación clara de la información.
-Prácticas de redes con Cisco Packet Tracer
-Creación de topologías básicas de red para comprender estructura, direccionamiento IP y configuración inicial de dispositivos.
-Prácticas con máquinas virtuales y Active Directory
-Uso de VMware para crear servidores de prueba.
-Configuración básica de servicios como Windows Server y Active Directory a nivel académico.
-(Actualmente sin experiencia laboral formal; enfocado en proyectos de práctica y formación continua.)
+CURSOS Y FORMACIÓN COMPLEMENTARIA
+Udemy: Redes Cisco, Python, Django, FastAPI, PostgreSQL, SQL, Ciencia de Datos, Windows Server, Azure.
+Devtalles: Docker, PostgreSQL con Docker.
+Automatización: Curso de n8n.
+
 
 IDIOMAS
 Español – Nativo
 Inglés – Básico
+
 <!---
 gerardovazquez29/gerardovazquez29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
