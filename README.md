@@ -18,13 +18,6 @@ Soy **Ingeniero en Sistemas**, **Programador Jr. en Python** y **Analista de Dat
 #### 📂 Mis Proyectos Destacados
 *Puedes ver mis repositorios de análisis de datos aquí mismo en mi perfil.*
 
-
-GERARDO SANTIAGO VÁZQUEZ TOVAR
-Teléfono: +52 33 1053 3921
-Correo: gerardovazquez2903@gmail.com
-Ubicación: Tlaquepaque, Jalisco, México
-
-
 PERFIL PROFESIONAL
 Estudiante de Ingeniería en Sistemas en octavo cuatrimestre en la Universidad UMOV (desde mayo 2023). Especializado en programación en Python y ciencia de datos, con enfoque en limpieza y visualización de datos.
 Utilizo la IA de forma estratégica para optimizar el aprendizaje y la resolución de problemas técnicos. Cuento con formación sólida en redes (Packet Tracer), administración de servidores (VMware, Active Directory), bases de datos (PostgreSQL), contenedores (Docker) y automatización (n8n). Busco una oportunidad como programador Jr. o analista de datos Jr. para aplicar mis conocimientos técnicos en un entorno profesional.
@@ -32,7 +25,7 @@ Utilizo la IA de forma estratégica para optimizar el aprendizaje y la resoluci�
 
 EDUCACIÓN
 Ingeniería en Sistemas
-Universidad UMOV – Tlaquepaque, Jalisco
+Universidad UMOV 
 Mayo 2023 – Actualidad · Octavo cuatrimestre
 
 HABILIDADES TÉCNICAS
